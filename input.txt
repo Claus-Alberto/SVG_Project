@@ -1,0 +1,5 @@
+St : FCCCFFCCFCFCF
+Dg : 10
+p1 : C -> CC
+p2 : F -> FF
+n : 5
